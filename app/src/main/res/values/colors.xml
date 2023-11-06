@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="steam_theme_background">#202126</color>
+    <color name="steam_theme_desc">#292c35</color>
+    <color name="steam_theme_text">#7d7e83</color>
+    <color name="green">#1FFD2A</color>
+    <color name="blue">#79cce7</color>
+    <color name="grey">#534d4e</color>
+</resources>
